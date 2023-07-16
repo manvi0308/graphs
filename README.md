@@ -4,5 +4,5 @@
   
 1) BFS
 2) DFS
-3) Find if there is a path from source to vertex
-4) 
+3) Number Of Islands
+4) Number of provinces
